@@ -1,4 +1,4 @@
-# Ex-01-Linux-Commands
+# Ex-02-Linux-Commands
 
 ## NAME : ROHITH J
 ## REG NO : 212224230232
